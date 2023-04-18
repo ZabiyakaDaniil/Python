@@ -1,4 +1,4 @@
 # Code:
 
-a = int(input(2))
+a = int(input())
 print((a + 3) // 4)
