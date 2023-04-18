@@ -1,3 +1,3 @@
 # Tasks:
 
-[Vans](https://github.com/ZabiyakaDaniil/Python/tree/main/Tasks/Vans)
+[Compartment](https://github.com/ZabiyakaDaniil/Python/tree/main/Tasks/Vans)
