@@ -11,4 +11,7 @@
 ### Формат выходных данных
 #### Программа должна вывести одно число – номер купе, в котором находится указаное место.
 
-## [Program code](https://github.com/ZabiyakaDaniil/Python/blob/main/Tasks/Compartment/Compartment.py)
+## Code:
+
+a = int(input())
+print((a + 3) // 4)
