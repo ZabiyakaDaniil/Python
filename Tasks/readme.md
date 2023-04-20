@@ -1,3 +1,3 @@
 # Tasks:
 
-[Compartment](https://github.com/ZabiyakaDaniil/Python/tree/main/Tasks/Compartment)
+[Python programming](https://github.com/ZabiyakaDaniil/Python/tree/main/Tasks/Python%20programming)
