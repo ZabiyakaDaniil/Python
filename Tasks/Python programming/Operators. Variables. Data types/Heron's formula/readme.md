@@ -8,12 +8,12 @@
 
 ## Code:
 
-a = int(input())
+#### a = int(input())
 
-b = int(input())
+#### b = int(input())
 
-c = int(input())
+#### c = int(input())
 
-p = (a + b + c) / 2
+#### p = (a + b + c) / 2
 
-print((p * (p - a) * (p - b) * (p - c)) ** 0.5)
+#### print((p * (p - a) * (p - b) * (p - c)) ** 0.5)
