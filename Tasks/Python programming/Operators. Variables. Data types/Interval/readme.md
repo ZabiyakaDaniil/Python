@@ -5,14 +5,14 @@
 
 ## Code:
 
-a = int(input())
+#### a = int(input())
 
-p_inf = float('inf')
+#### p_inf = float('inf')
 
-if -15 < a <= 12 or 14 < a < 17 or 19 <= a < p_inf:
+#### if -15 < a <= 12 or 14 < a < 17 or 19 <= a < p_inf:
     
-    print('True')
+####    print('True')
 
-else:
+#### else:
     
-    print('False')
+####    print('False')
