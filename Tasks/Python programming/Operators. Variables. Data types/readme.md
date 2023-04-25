@@ -7,3 +7,5 @@
 ### [Heron's formula](https://github.com/ZabiyakaDaniil/Python/tree/main/Tasks/Python%20programming/Operators.%20Variables.%20Data%20types/Heron's%20formula)
 
 ### [Interval](https://github.com/ZabiyakaDaniil/Python/tree/main/Tasks/Python%20programming/Operators.%20Variables.%20Data%20types/Interval)
+
+### [Calculator](https://github.com/ZabiyakaDaniil/Python/tree/main/Tasks/Python%20programming/Operators.%20Variables.%20Data%20types/Calculator)
