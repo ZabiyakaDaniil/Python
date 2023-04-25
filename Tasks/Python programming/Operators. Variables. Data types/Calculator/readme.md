@@ -12,6 +12,7 @@
 
 ## Code:
 
+<pre>
 #### a = float(input())
 #### b = float(input())
 #### c = str(input())
