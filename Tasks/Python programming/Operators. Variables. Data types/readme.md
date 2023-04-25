@@ -14,4 +14,4 @@
 
 ### [Strings](https://github.com/ZabiyakaDaniil/Python/tree/main/Tasks/Python%20programming/Operators.%20Variables.%20Data%20types/Strings)
 
-### [Strings](https://github.com/ZabiyakaDaniil/Python/tree/main/Tasks/Python%20programming/Operators.%20Variables.%20Data%20types/Quantity)
+### [Quantity](https://github.com/ZabiyakaDaniil/Python/tree/main/Tasks/Python%20programming/Operators.%20Variables.%20Data%20types/Quantity)
