@@ -13,6 +13,6 @@
 
 ## Code:
 
-#### a = int(input())
-
-#### print((a + 3) // 4)
+<pre>
+a = int(input())
+print((a + 3) // 4)
