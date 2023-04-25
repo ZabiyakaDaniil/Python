@@ -15,3 +15,5 @@
 ### [Strings](https://github.com/ZabiyakaDaniil/Python/tree/main/Tasks/Python%20programming/Operators.%20Variables.%20Data%20types/Strings)
 
 ### [Quantity](https://github.com/ZabiyakaDaniil/Python/tree/main/Tasks/Python%20programming/Operators.%20Variables.%20Data%20types/Quantity)
+
+### [Lucky ticket](https://github.com/ZabiyakaDaniil/Python/tree/main/Tasks/Python%20programming/Operators.%20Variables.%20Data%20types/Lucky%20ticket)
