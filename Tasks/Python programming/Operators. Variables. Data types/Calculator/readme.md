@@ -22,20 +22,21 @@ elif c == '-':
     print(a - b)
 elif c == '/':
     if b != 0:
-       print(a / b)
+        print(a / b)
     else:
-       print('Деление на 0!')
+        print('Деление на 0!')
 elif c == '*':
     print(a * b)
 elif c == 'mod':
     if b != 0:
-       print(a % b)
+        print(a % b)
     else:
-       print('Деление на 0!')
+        print('Деление на 0!')
 elif c == 'pow':
-    print(a ** b) 
+    print(a ** b)
 elif c == 'div':
     if b != 0:
-       print(a // b)
+        print(a // b)
     else:
-       print('Деление на 0!')
+        print('Деление на 0!')
+
