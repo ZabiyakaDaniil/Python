@@ -1,4 +1,4 @@
-# Tasks on the topics operators, variables, data types
+# Tasks on the topics: operators, variables, data types
 
 ## print, input, int, str, float, bool, if, elif, else, //, %, **
 
