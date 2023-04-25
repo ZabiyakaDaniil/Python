@@ -11,3 +11,5 @@
 ### [Calculator](https://github.com/ZabiyakaDaniil/Python/tree/main/Tasks/Python%20programming/Operators.%20Variables.%20Data%20types/Calculator)
 
 ### [Room area](https://github.com/ZabiyakaDaniil/Python/tree/main/Tasks/Python%20programming/Operators.%20Variables.%20Data%20types/Room%20area)
+
+### [Strings](https://github.com/ZabiyakaDaniil/Python/tree/main/Tasks/Python%20programming/Operators.%20Variables.%20Data%20types/Strings)
