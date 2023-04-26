@@ -11,3 +11,5 @@
 ### [Multiplication Table](https://github.com/ZabiyakaDaniil/Python/tree/main/Tasks/Python%20programming/Cycles.%20Lines.%20Lists/Multiplication%20Table)
 
 ### [Simple average](https://github.com/ZabiyakaDaniil/Python/tree/main/Tasks/Python%20programming/Cycles.%20Lines.%20Lists/Simple%20average)
+
+### [Coded sequence](https://github.com/ZabiyakaDaniil/Python/tree/main/Tasks/Python%20programming/Cycles.%20Lines.%20Lists/%D0%A1oded%20sequence)
